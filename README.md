@@ -8,3 +8,7 @@ Flutter documentation links referred: </br>
 > https://dart.dev/null-safety </br>
 > https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html </br>
 > https://pub.dev/packages/provider
+</br>
+</br>
+Link to the web view: </br>
+https://api.flutlab.io/res/projects/453993/snoj3xjs6szrfnnygr0t/index.html#/
