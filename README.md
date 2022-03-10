@@ -11,5 +11,3 @@ Flutter documentation links referred: </br>
 >https://pub.dev/packages/introduction_screen
 </br>
 </br>
-Link to the web view: </br>
-https://api.flutlab.io/res/projects/454138/vajiowntc3m67wirf34g/index.html
