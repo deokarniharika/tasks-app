@@ -11,3 +11,7 @@ Flutter documentation links referred: </br>
 >https://pub.dev/packages/introduction_screen
 </br>
 </br>
+
+Screenshots:
+
+![ss](https://user-images.githubusercontent.com/95857656/179702194-0a26b765-161d-48b1-ac1c-264c5621e9da.png)
